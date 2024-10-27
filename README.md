@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"  />
-</div>
+<h1 align="center">Hi 👋, I'm Yash Kumar Singh</h1>
 
 ###
 
@@ -15,7 +13,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Yash Kumar Singh</h1>
+<img align="right" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
 ###
 
@@ -23,7 +21,7 @@
 
 ###
 
-<p align="left">- 📚  I’m currently learning Devops, Kubernetes etc<br>- ⚡Ask me about Next.js, MERN Stack etc.<br>- 📫 How to reach me itsyash9211@gmail.com</p>
+<p align="left">- 📚  I’m currently learning Devops, Kubernetes etc<br> - 👨‍💻 All of my projects are available at https://deployed-portfolio-whykash.vercel.app<br>- ⚡Ask me about Next.js, MERN Stack etc.<br>- 📫 How to reach me itsyash9211@gmail.com</p>
 
 ###
 
@@ -31,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -88,14 +86,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhyKash01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WhyKash01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=WhyKash01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WhyKash01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhyKash01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WhyKash01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
