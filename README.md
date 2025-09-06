@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 📚  I’m currently learning Devops, Kubernetes etc<br> - 👨‍💻 All of my projects are available at https://deployed-portfolio-whykash.vercel.app<br>- ⚡Ask me about Next.js, MERN Stack etc.<br>- 📫 How to reach me itsyash9211@gmail.com</p>
+<p align="left">- 📚  I’m currently learning Devops, Kubernetes etc<br> - ⚡Ask me about Next.js, MERN Stack etc.<br>- 📫 How to reach me itsyash9211@gmail.com</p>
 
 ###
 
