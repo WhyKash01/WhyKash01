@@ -21,6 +21,8 @@
 ###
 
 <div align="center">
+  <img src="https://toppng.com/uploads/small/11735759451tl2bruelfa2scmjagfbslpichmnygktcpewkywybnpsvltl02wh0rylsulvwknmyhxcjr0pmraprdjsdrt8qc9uhinvfw1vghebv.webp" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -68,6 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  
 </div>
 
 
