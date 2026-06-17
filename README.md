@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://toppng.com/uploads/small/11735759451tl2bruelfa2scmjagfbslpichmnygktcpewkywybnpsvltl02wh0rylsulvwknmyhxcjr0pmraprdjsdrt8qc9uhinvfw1vghebv.webp" height="40" alt="github logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png?_=20191207190041" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
